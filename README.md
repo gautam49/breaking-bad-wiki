@@ -1,6 +1,6 @@
 # [Breaking Bad Wiki](https://gautam49.github.io/breaking-bad-wiki/)
 
-- [LICENSE](https://github.com/gautam49/breaking-bad/blob/master/LICENSE)
+- [LICENSE](https://github.com/gautam49/breaking-bad/master/LICENSE)
 
 ## The following tools were used in the construction of the project:
 
